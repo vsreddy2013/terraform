@@ -1,2 +1,2 @@
 # terraform
-terraform_templates
+Terraform_templates
